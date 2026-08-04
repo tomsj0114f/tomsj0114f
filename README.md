@@ -1,4 +1,4 @@
-```markdown
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0B1220,100:2563EB&text=Tom%20Santhosh&fontColor=ffffff&fontSize=50&fontAlignY=38&desc=Full-Stack%20Developer%20•%20UI/UX%20Enthusiast%20•%20Product%20Builder&descAlignY=58"/>
@@ -104,4 +104,4 @@ A modern portfolio showcasing projects, design, and development journey.
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:2563EB,100:0B1220"/>
 
 </div>
-```
+
